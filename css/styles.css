@@ -1,0 +1,314 @@
+h1 {
+  color: #dfdfdf;
+  font-size: 90px;
+  font-family: 'Aref Ruqaa', serif;
+  margin: 70px auto 5px auto;
+  line-height: 1;
+  text-shadow: 1px 1px 2px red, 0 0 1em #ff0000, 0 0 0.2em #ff0000;
+}
+
+hr {
+  border: dotted 10px #ff0000;
+  border-bottom: none;
+  width: 25%;
+  margin: 0 auto 50px auto;
+}
+
+.overview {
+  color: #c70039;
+  font-size: 90px;
+  font-family: 'Aref Ruqaa', serif;
+  margin: 100px auto 50px auto;
+  line-height: 1;
+}
+
+h2 {
+  color: #470938;
+  font-size: 40px;
+  width: 50%;
+  text-align: center;
+  font-family: 'Yatra One', cursive;
+  margin: 100px auto 10px auto;
+  text-shadow: 1px 1px 2px black, 0 0 1em #c70039, 0 0 0.2em #c70039;
+}
+
+.intro {
+  padding: 0 30px 10px 30px;
+  color: #ffacb7;
+  /* color: #c83660; */
+  margin: 10px auto;
+  padding-bottom: 55px;
+  width: 60%;
+  font-size: 30px;
+  line-height: 2;
+  font-family: 'Sniglet', cursive;
+}
+
+.TopContainer {
+  text-align: center;
+  position: relative;
+  background-color: #470938;
+  background-image: url(../image/violet.jpg);
+  padding: 100px;
+  height: 1000px;
+}
+
+a {
+  color: #ff0000;
+  display: block;
+  margin-top: 80px;
+  font-size: 40px;
+  text-shadow: 1px 1px 2px black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #470938;
+  color: #f2d6eb;
+  text-decoration: underline;
+}
+
+.imagecorona {
+  border-radius: 50% 50%;
+  width: 50%;
+  height: 50%;
+  border: thick double #f2d6eb;
+}
+
+.stickercorona1 {
+  position: absolute;
+  bottom: 10px;
+  right: 1080px;
+  bottom: 700px;
+  width: 10%;
+  height: 10%;
+}
+
+.stickercorona3 {
+  position: absolute;
+  top: 20px;
+  right: 120px;
+  width: 10%;
+  height: 10%;
+}
+
+.MiddleContainer {
+  text-align: center;
+  padding: 100px;
+  background-image: url(https://media.giphy.com/media/57Y7JIqvH9okJCJYjp/giphy.gif), url(../image/pink.jpg);
+}
+
+.iframe-container1 {
+  float: right;
+  padding: 10px;
+  border: 2rem outset #470938;
+  width: 600px;
+  margin: 25px 10px 0;
+}
+
+.iframe-container2 {
+  float: left;
+  padding: 10px;
+  border: 2rem outset #470938;
+  width: 600px;
+  margin: 20px 10px 0;
+}
+
+.intro-virus {
+  color: #470938;
+  font-family: 'Sniglet', cursive;
+  line-height: 2;
+  margin: 5px 10px 5px 10px;
+  text-align: justify;
+  padding: 10px;
+}
+
+.corona-virus {
+  color: #470938;
+  font-family: 'Sniglet', cursive;
+  line-height: 2;
+  padding-top: 10px;
+  margin: 5px 10px 5px 10px;
+  text-align: justify;
+}
+
+.corona-intro {
+  height: 400px;
+}
+
+.symptoms-and-precautions {
+  text-align: justify;
+  color: #470938;
+  font-family: 'Sniglet', cursive;
+  line-height: 2;
+  margin: 5px 10px 5px 10px;
+}
+
+.git {
+  font-size: 1rem;
+  display: inline;
+  margin-left: 300px;
+}
+
+.getit {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.contact-me {
+  margin: 100px auto;
+  color: #470938;
+  font-family: 'Sniglet', cursive;
+}
+
+.btn {
+  -moz-box-shadow: 5px -6px 2px 0px #8a2a21;
+  -webkit-box-shadow: 5px -6px 2px 0px #8a2a21;
+  box-shadow: 5px -6px 2px 0px #8a2a21;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #c62d1f), color-stop(1, #f24437));
+  background: -moz-linear-gradient(center top, #c62d1f 5%, #f24437 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c62d1f', endColorstr='#f24437');
+  background-color: #c62d1f;
+  -webkit-border-top-left-radius: 18px;
+  -moz-border-radius-topleft: 18px;
+  border-top-left-radius: 18px;
+  -webkit-border-top-right-radius: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-right-radius: 0px;
+  -webkit-border-bottom-right-radius: 18px;
+  -moz-border-radius-bottomright: 18px;
+  border-bottom-right-radius: 18px;
+  -webkit-border-bottom-left-radius: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  border-bottom-left-radius: 0px;
+  text-indent: 0;
+  border: 1px solid #d02718;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Verdana;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  height: 46px;
+  line-height: 46px;
+  width: 125px;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 2px -3px 2px #810e05;
+}
+
+.btn:hover {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f24437), color-stop(1, #c62d1f));
+  background: -moz-linear-gradient(center top, #f24437 5%, #c62d1f 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f24437', endColorstr='#c62d1f');
+  background-color: #f24437;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.BottomContainer {
+  background-color: #470938;
+  text-align: center;
+  font-family: 'Yatra One', cursive;
+  font-size: 20px;
+  padding: 30px;
+  background-image: url(../image/violet.jpg);
+}
+
+.copyright {
+  margin-bottom: 0;
+  color: #f2d6eb;
+}
+
+.quote {
+  border: thick double #f2d6eb;
+  width: 70%;
+  margin: auto;
+  color: #e6a4b4;
+  font-family: 'Yatra One', cursive;
+  text-shadow: 1px 1px 2px red, 0 0 1em #ff0000, 0 0 0.2em #ff0000;
+}
+
+span {
+  margin-left: 500px;
+  text-decoration: underline;
+}
+
+h3 {
+  color: #c70039;
+  font-family: 'Yatra One', cursive;
+  font-size: 20px;
+  text-shadow: 1px 2px 2px #f2d6eb;
+}
+
+p {
+  color: #470938;
+  font-family: 'Sniglet', cursive;
+  line-height: 2;
+  margin: 5px 10px 5px 10px;
+}
+
+.divgit {
+  text-align: center;
+  background-image: url(https://media.giphy.com/media/lKpQLzEwqAQLtLv1O5/giphy.gif), url(../image/pink.jpg);
+  padding: 100px;
+}
+
+.divqa {
+  color: #470938;
+  background-image: url(https://media.giphy.com/media/1fm964SLnrY26wSD53/giphy.gif), url(../image/pink.jpg);
+  font-family: 'Sniglet', cursive;
+  line-height: 2;
+  text-align: justify;
+  padding: 5px 10px 5px 10px;
+}
+
+.divhistory {
+  text-align: justify;
+  background-image: url(https://media.giphy.com/media/57Y7JIqvH9okJCJYjp/giphy.gif), url(../image/history.jpg);
+  padding: 5px 10px 5px 10px;
+  background-size: cover;
+  font-family: 'Sniglet', cursive;
+  line-height: 2;
+  color: #470938;
+}
+
+.user {
+  text-align: center;
+  color: #470938;
+  border-collapse: collapse;
+  table-layout: fixed;
+  border: 10px solid #c70039;
+  width: 100%;
+}
+
+.one {
+  width: 20%;
+}
+
+.two {
+  width: 30%;
+}
+
+.three {
+  width: 60%;
+}
+
+.img {
+  padding: 20px 0 20px 0;
+  margin: 30px auto;
+}
+
+ul {
+  list-style-image: url(../image/icon1.png);
+}
+
+ol {
+  list-style-image: url(../image/icon1.png);
+}
